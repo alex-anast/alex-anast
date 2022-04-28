@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @alex-anast
-- 👀 I’m interested in ..learning GitHub at first!
-- 🌱 I’m currently learning embedded C.
+- 👀 I’m interested in Embedded Systems and Data Science!
+- 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to work remotely.
-- 📫 How to reach me : email available!
+- 📫 How to reach me : AnastasioyAA@gmail.com!
 
 <!---
-alex-anast/alex-anast is a ✨ kalispera ✨
+✨ alex-anast/alex-anast ✨
 --->
