@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning SQL.
 - 💻 I’m looking to work remotely.
 - 📫 How to reach me : 
-      	📨 AnastasioyAA@gmail.com!
-        🔗 linkedin.com/in/anastasioyaa
-        📖 <to_be_updated>
+            📨 AnastasioyAA@gmail.com!
+            🔗 linkedin.com/in/anastasioyaa
+            📖 <to_be_updated>
 
 <!---
 ✨ alex-anast/alex-anast ✨
