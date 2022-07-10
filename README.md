@@ -4,7 +4,7 @@
 - 💻 I’m looking to work remotely.
 - 📫 How to reach me : 
             📨 AnastasioyAA@gmail.com!
-            🔗 linkedin.com/in/anastasioyaa
+            🔗 [LinkedIn Profile](linkedin.com/in/anastasioyaa)
             📖 <to_be_updated>
 
 <!---
