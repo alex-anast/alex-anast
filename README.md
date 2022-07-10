@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL.
 - 💻 I’m looking to work remotely.
 - 📫 How to reach me : 
-            📨 AnastasioyAA@gmail.com!
+            📨 AnastasioyAA@gmail.com
             🔗 [LinkedIn Profile](linkedin.com/in/anastasioyaa)
             📖 <to_be_updated>
 
